@@ -1,5 +1,5 @@
 {
-    "name": "crockett95/projectplace",
+    "name": "crockett95/projectplaceoauth",
     "require": {
         "lusitanian/oauth": "~0.3"
     },
