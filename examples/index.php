@@ -7,10 +7,9 @@
  *
  * @author     David Desberg <david@daviddesberg.com>
  * @author     Pieter Hordijk <info@pieterhordijk.com>
- * @copyright  Copyright (c) 2012 The authors
+ * @author     Steve Crockett <crockett95@gmail.com>
+ * @copyright  Copyright (c) 2014 The authors
  * @license    http://www.opensource.org/licenses/mit-license.html  MIT License
- *
- * Modified 2014 Steve Crockett
  */
 
 use Crockett95\ProjectPlace\OAuthService;
