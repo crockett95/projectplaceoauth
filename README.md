@@ -9,10 +9,31 @@ Lusitanian.
 
 More about the [Projectplace API](http://api.projectplace.com/).
 
+[![Travis build status](http://img.shields.io/travis/crockett95/projectplaceoauth/master.svg?style=flat)](https://travis-ci.org/crockett95/projectplaceoauth)
+[![Packagist License](http://img.shields.io/packagist/l/crockett95/projectplaceoauth.svg?style=flat)](https://packagist.org/packages/crockett95/projectplaceoauth)
+[![Packagist Version](http://img.shields.io/packagist/v/crockett95/projectplaceoauth.svg?style=flat)](https://packagist.org/packages/crockett95/projectplaceoauth)
+[![Packagist Downloads](http://img.shields.io/packagist/dt/crockett95/projectplaceoauth.svg?style=flat)](https://packagist.org/packages/crockett95/projectplaceoauth)
+
 ## Installation
 
-This package will likely be added to [Packagist](https://packagist.org/) in a
-coming release. In the meantime, I would recommend probably not using it yet.
+The library is available on [Packagist](https://packagist.org/packages/crockett95/projectplaceoauth).
+The recommended way to install it is with [composer](http://getcomposer.org).
+
+Add as a dependency in `composer.json`:
+
+```json
+{
+    "require": {
+        "crockett95/projectplaceoauth": "~0.1"
+    }
+}
+```
+
+Or require with `composer`:
+
+```bash
+composer require crockett95/projectplaceoauth
+```
 
 ## Usage
 
