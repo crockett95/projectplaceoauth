@@ -1,9 +1,10 @@
 {
     "name": "crockett95/projectplaceoauth",
+    "description": "Service wrapper for Projectplace OAuth 1.0 for use with the PHPOAuthLib library by Lusitanian."
     "require": {
         "lusitanian/oauth": "~0.3"
     },
-    "license": "ISC",
+    "license": "MIT",
     "authors": [
         {
             "name": "Steve Crockett",
